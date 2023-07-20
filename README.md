@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/jira-skyblue?style=for-the-badge&logo=jira&logoColor=white">
   <br>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSukHyun&layout=compact&theme=dracula)
 <!--
 **YunSukHyun/YunSukHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
