@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunSukHyun&show_icons=true&theme=dracula)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSukHyun&layout=compact&theme=dracula)
 
 
 
@@ -26,7 +26,7 @@
   <br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSukHyun&layout=compact&theme=dracula)
+
 <!--
 **YunSukHyun/YunSukHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
