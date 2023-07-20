@@ -25,6 +25,7 @@
   <br>
 </div>
 
+- 🌱 I’m currently learning ...   <img src="https://img.shields.io/badge/next.js-339933?style=for-the-badge&logo=Next.js&logoColor=white">
 
 <!--
 **YunSukHyun/YunSukHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
