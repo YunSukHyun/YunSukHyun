@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunSukHyun&show_icons=true&theme=dracula)
-[![Top Langs](https://jirahub-readme-stats.vercel.app/api/top-langs/?username=YunSukHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSukHyun&layout=compact&theme=dracula)
 
 
 
