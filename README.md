@@ -7,11 +7,12 @@
 
 
 <div> 
-  <div align=center><h1>JS</h1></div>
+  <div align=center><h1>Client</h1></div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <br>
   <div align=center><h1>DB, server</h1></div>
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
@@ -26,9 +27,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-skyblue?style=for-the-badge&logo=jira&logoColor=white">
   <br>
+    <div align=center><h1>🌱currently learning ...</h1></div>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
 
-🌱 I’m currently learning ...   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+ 
+
+  
+
 
 <!--
 **YunSukHyun/YunSukHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
